@@ -1,0 +1,5 @@
+.bash_history
+.git-credentials
+__pycache__/
+*.env
+*.pyc
